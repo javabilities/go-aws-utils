@@ -1,1 +1,9 @@
-package s3_list_buckets
+package main
+
+import (
+    "fmt"
+)
+
+func main() {
+    fmt.Println("hello")
+}
