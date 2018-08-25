@@ -24,3 +24,7 @@
 # Mac OSX
 .DS_Store
 /bin/
+
+# Project work directories
+build/
+dist/
